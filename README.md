@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository. It includes projects I made during my tutorials in coding.
+This is my first repository. It includes code I wrote during my tutorials in programming.
